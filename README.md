@@ -32,7 +32,7 @@ This tutorial demonstrates how to inspect network traffic between Azure Virtual 
 2. Add two virtual machines (VMs):  
    - **VM1**: Windows 10 Pro  
    - **VM2**: Ubuntu Server  
-    If you need help creating your virtual machines, please see my tutorial [here](https://github.com/sethdefonso/Creating-a-Virtual-Machine-Using-Azure).
+    If you need help creating your virtual machines, please see my tutorial [here](https://github.com/sethdefonso/azure-virtual-machine-creation)
 3. Ensure both VMs are part of the same virtual network.  
 
 ![1](https://i.imgur.com/wGCedqr.png)
